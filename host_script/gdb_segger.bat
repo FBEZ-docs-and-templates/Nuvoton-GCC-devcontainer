@@ -1,0 +1,1 @@
+"C:\Program Files\SEGGER\JLink_V796j\JLinkGDBServerCL.exe" -select USB -device M031FB0AE -endian little -if SWD -speed 4000 -noir -LocalhostOnly -nologtofile -port 2331 -SWOPort 2332 -TelnetPort 2333
